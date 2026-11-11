@@ -13,3 +13,4 @@ bash gitstats.sh path/to/repo 30    # last 30 days
 ## Requirements
 
 Bash and Git (Git Bash on Windows) 
+Powershell
